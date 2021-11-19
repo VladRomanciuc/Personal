@@ -9,6 +9,8 @@ The client uses Microsoft products and has a system in place for data flow. The 
 ###### 2. Understanding the data
 The Call Centre data is stored in a separate table by Call Id and includes details by Agent, Date, Time, Topic, Answered status, Resolved status, Speed of answer in seconds, Average Talk Duration and Satisfaction rating.
 
+![Data](Data.png)
+
 ###### 3. Define the solution
 The most suitable for the case is to use the Microsoft Power BI product:
 - The data is ready for use after minimal transformations;
