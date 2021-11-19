@@ -27,7 +27,8 @@ Agreed on KPIs with the client needed for the business to monitor:
 
 ###### 4. Data Preparation 
 Connect the data source ***Power Query Editor***
-![Connect to the data source]()
+![Connect to the data source](Connect%20the%20data%20source.png)
+
 a.	Promote the headers
 ```SQL
 =Table.PromoteHeaders(Sheet1_Sheet, [PromoteAllScalars=true])
@@ -59,9 +60,8 @@ d.	Transform the data types for date and time
 - [ ] Filters by Month and Week
 - *Slicer (Value – Date data grouped by months and weeks)*
 
+![Dashboard](Dashboard.png)
+
 ###### 6. Evaluation 
 The analysis of the model indicated a heathy performance as all queries were executed up to 0.6 seconds.
-
-
-
-
+![Performance](Performance.png)
