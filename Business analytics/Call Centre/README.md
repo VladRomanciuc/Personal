@@ -27,6 +27,7 @@ Agreed on KPIs with the client needed for the business to monitor:
 
 ###### 4. Data Preparation 
 Connect the data source ***Power Query Editor***
+![Connect to the data source]()
 a.	Promote the headers
 ```SQL
 =Table.PromoteHeaders(Sheet1_Sheet, [PromoteAllScalars=true])
