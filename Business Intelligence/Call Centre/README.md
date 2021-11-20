@@ -1,10 +1,11 @@
-# Call Centre Performance 
+# Call Centre Performance <a href="https://powerbi.microsoft.com/en-us/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white" /></a>
+  
 ### Case brief
 
 > A client wants an integrated tool to have a general overview of their Call Centre performance and make data-driven decisions such as detecting where the issues are and quickly fixing them.
 
 ###### 1. Understanding the business 
-The client uses Microsoft products and has a system in place for data flow. The data is stored in an SQL database available to access offline and online as a relational database-as-a-service on Azure service.
+The client uses Microsoft products and has a system in place for data flow. The data is structured and stored in an SQL database available to access offline and online as a relational database-as-a-service on Azure service.
 
 ###### 2. Understanding the data
 The Call Centre data is stored in a separate table by Call Id and includes details by Agent, Date, Time, Topic, Answered status, Resolved status, Speed of answer in seconds, Average Talk Duration and Satisfaction rating.
