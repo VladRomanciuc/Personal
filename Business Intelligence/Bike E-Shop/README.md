@@ -10,26 +10,32 @@ The client has few physical shops and uses Wix products for their website and tr
 
 ###### 2. Understanding the data
 
-The data is stored in separate ​collections ​Transaction, Demographics, and Customer Address by customers ID due to the access control over the sensitive information.
+The data is stored in separate collections Transaction, Demographics, and Customer Address by customers ID due to the access control over the sensitive information.
 It was  analysed through a standard Data Quality Framework that found the following issues:
 **Accuracy**
 _Customer demographic sheet_
-- A spare column with the name default has mixed data with code. 
+- A spare column with the name default has mixed data with code.
+
 ![Column with code](column_with_code.png)
+
 - The gender field is composed of different acronyms of Female and Male entries.
+
 ![Gender](gender.png)
 
 _Customer address sheet_
 - The state field has combined entry of the states by acronym and full name.
+
 ![States](state.png)
 
 **Validity**
 _Transaction sheet_
 - The list_price and standart_cost columns display different values such as integral numbers vs decimals.
+
 ![Costs](costs.png)
 
 _Customer demographic sheet_
 - DOB column contains different date formats.
+
 ![DoB](DOB.png)
 
 _These errors impacted the trueness of the results of analytics tools included in the Wix product package. The recommendations have been provided to the client to avoid the reoccurrence of data quality issues and improve the accuracy of input important for business decisions._
@@ -110,6 +116,7 @@ Sales in the last 2 years
 | Brands by count of sold products KPI | Product class by count of sold products KPI | Product line by count of sold products KPI |
 | ----- | ------ | ------ |
 | *Stacked column chart (Axis Y – brand data, Axis X – count by product_id displayed in %)* | *Stacked column chart (Axis Y – product class data, Axis X – count by product_id)* | *Stacked column chart (Axis Y – product class data, Axis X – count by product_id)*|
+
 ![Product charts](product_charts.png)
 
 Current customer demographics modelling the new potential customer demographics
@@ -117,8 +124,10 @@ Current customer demographics modelling the new potential customer demographics
 | Current customers by age groups and gender | Current customers by job industry | Current customers by location |
 | ---- | ---- | ---- |
 |  *Stacked bar chart (Axis Y – age groups data, Axis X – gender data, value - count of customer_id)* | *Stacked bar chart (Axis Y – job industry category data, Axis X – count of customer_id)* | *Donut chart (Details - state data, value - count of customer_id)* |
+
 ![Demographics charts](demographics.png)
 
 ###### 6. Evaluation 
 The analysis of the model indicated a heathy performance as all queries were executed up to 0.7 seconds.
+
 ![Performance](performance.png)
