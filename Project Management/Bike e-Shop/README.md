@@ -13,10 +13,10 @@
 >Company X specialises in high-quality bikes and accessible cycling accessories to riders. It has an expertise of 15 years on the market and owns several physical shops. It operates on the Wix platform for its web presence and transactions. The successful Bike e-Shop is using the targeting marketing strategy.
 
 ##### Problem
-_Up to date, the marketing team made decisions based on the information available through the built-in analytical tool of the product they use. At one point they realised that some of the metrics are inaccurate and don't provide a real measurement. The decisions made on average data not always are effective. An example was provided the bounce rate metric that is not accurate on dynamic pages engineering._
+_Up to date, the marketing team made decisions based on the information available through the built-in analytical tool of the product they use. At one point they realised that some of the metrics are inaccurate and don't provide a real measurement. The decisions made on average data are not always effective. An example was provided the bounce rate metric that is not accurate on dynamic pages engineering._
 
 ##### Purpose
-_Company X enquire to analyse their data and reveal useful customer insights that could help to optimise resource allocation and choose the right strategic approach by the marketing team. A ​more intelligent way to the insight of the current customers' intents to improve the performance and target high-value customers from a new dataset of potential customers._
+_Company X enquire to analyse their data and reveal useful customer insights that could help to optimise resource allocation and choose the right strategic approach by the marketing team. A more intelligent way to the insight of the current customers' intents to improve the performance and target high-value customers from a new dataset of potential customers._
 
 #### Project plan
 ![](project_plan.png)
