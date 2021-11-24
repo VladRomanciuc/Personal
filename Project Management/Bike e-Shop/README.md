@@ -1,5 +1,14 @@
 # Project: Identify the most value customers using the data analytics
-
+ <a href="https://www.lucidchart.com/pages/">
+		<img src="https://img.shields.io/badge/Lucidchart-orange?style=plastic&logo=WeightsAndBiases&logoColor=white" />
+	</a>
+ <a href="https://www.wrike.com/">
+		<img src="https://img.shields.io/badge/Wrike-white?style=plastic&logo=Linode&logoColor=green" />
+	</a>
+ <a href="https://office.live.com/start/powerpoint.aspx">
+		<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+	</a>
+ 
 ### Case brief
 >Company X specialises in high-quality bikes and accessible cycling accessories to riders. It has an expertise of 15 years on the market and owns several physical shops. It operates on the Wix platform for its web presence and transactions. The successful Bike e-Shop is using the targeting marketing strategy.
 
@@ -42,6 +51,7 @@ _Company X enquire to analyse their data and reveal useful customer insights tha
 |Data Quality Assessment | Marketing Segmentation based on current demographic data of clients | Workshop with the operations and sales team: _Importance of the accuracy in data input_ | 
 Identify the most suitable intelligence tool for the marketing team (Microsoft Power BI or Tableau) | Marketing Segmentation based on demographics of new list of clients | Compilation of the outcome using PowerPoint presentation for reporting | 
  | Data transformations and feature engineering for the integration | Data Modelling to identify the most valuable market segment of new customers | Workshop with the marketing team: _Using the analytics dashboard_ |
+| [Phase 1 and 2 details](https://github.com/VladRomanciuc/Personal/blob/9a83c14fbd85bfaf0c6a9b96526161f3cb9bf954/Business%20Intelligence/Bike%20E-Shop/README.md) | | |
 
 #### RACI Matrix
 ![](RACI_Matrix.png)
