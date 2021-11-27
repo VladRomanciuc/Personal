@@ -1,5 +1,7 @@
 # Bike e-Shop new customer capture <a href="https://powerbi.microsoft.com/en-us/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white" /></a>
 
+[Project plan](https://github.com/VladRomanciuc/Personal/blob/6077c7dd27f40ded5ab5ccc0527bbee5990c8ba3/Project%20Management/Bike%20e-Shop/README.md) | [Analytic report](https://github.com/VladRomanciuc/Personal/blob/6077c7dd27f40ded5ab5ccc0527bbee5990c8ba3/Business%20Analysis/Bike%20E-Shop/README.md)
+
 ### Case brief
 
 > A successful Bike e-Shop using the targeting marketing strategy wants a more intelligent way to the insight of the current customers which will improve the performance of the marketing team that target high-value customers from lists of potential customers.
