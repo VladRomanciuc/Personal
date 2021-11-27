@@ -1,4 +1,4 @@
-### Bike e-Shop Customer Trends Analytic Report
+### Bike e-Shop Customer Trends Analytic Report <a href="https://powerbi.microsoft.com/en-us/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white" /></a>
 
 ### Case brief
 
@@ -58,6 +58,7 @@ _Targeting customers from all age groups in New South Wales, Victoria and Queens
 - The tool is offering a 3-click way to filter and access the list of targeted customers. 
 
 The example below filters new customers by brand located in the Victoria state and the report is displaying only these clients.
+
 ![](PBID_click.png)
 
 ![](PBID_details.png)
