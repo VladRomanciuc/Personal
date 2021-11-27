@@ -9,6 +9,7 @@
 		<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 	</a>
  
+[Analytic report](https://github.com/VladRomanciuc/Personal/blob/151e14d0968c3ef425de5c5c184f6ca9dffdabfd/Business%20Analysis/Bike%20E-Shop/README.md) | [Data exploration](https://github.com/VladRomanciuc/Personal/blob/151e14d0968c3ef425de5c5c184f6ca9dffdabfd/Business%20Intelligence/Bike%20E-Shop/README.md) 
 ### Case brief
 >Company X specialises in high-quality bikes and accessible cycling accessories to riders. It has an expertise of 15 years on the market and owns several physical shops. It operates on the Wix platform for its web presence and transactions. The successful Bike e-Shop is using the targeting marketing strategy.
 
