@@ -19,7 +19,7 @@ _Up to date, the marketing team made decisions based on the information availabl
 _Company X enquire to analyse their data and reveal useful customer insights that could help to optimise resource allocation and choose the right strategic approach by the marketing team. A more intelligent way to the insight of the current customers' intents to improve the performance and target high-value customers from a new dataset of potential customers._
 
 #### Project plan
-![](project_plan.png)
+![Project plan](project_plan.png)
 
 ### Goal
 >Delivering an interactive analytic report in 3 weeks after data processing that will reveal the potential from a list of 1000 new clients aiming to drive the most value for the organisation based on demographics and behaviour of current customers.
@@ -40,7 +40,7 @@ _Company X enquire to analyse their data and reveal useful customer insights tha
 - Data Quality presented for processing.
 
 #### Key stakeholders map
-![](stakeholders_map.png)
+![Stakeholders map](stakeholders_map.png)
 
 ### Scope
 
@@ -51,13 +51,13 @@ _Company X enquire to analyse their data and reveal useful customer insights tha
 |Data Quality Assessment | Marketing Segmentation based on current demographic data of clients | Workshop with the operations and sales team: _Importance of the accuracy in data input_ | 
 Identify the most suitable intelligence tool for the marketing team (Microsoft Power BI or Tableau) | Marketing Segmentation based on demographics of new list of clients | Compilation of the outcome using PowerPoint presentation for reporting | 
  | Data transformations and feature engineering for the integration | Data Modelling to identify the most valuable market segment of new customers | Workshop with the marketing team: _Using the analytics dashboard_ |
-| [Phase 1 and 2 details](https://github.com/VladRomanciuc/Personal/blob/9a83c14fbd85bfaf0c6a9b96526161f3cb9bf954/Business%20Intelligence/Bike%20E-Shop/README.md) | | |
+| [Phase 1 and 2 details](https://github.com/VladRomanciuc/Personal/blob/9a83c14fbd85bfaf0c6a9b96526161f3cb9bf954/Business%20Intelligence/Bike%20E-Shop/README.md) | | [Phase 3 details](https://github.com/VladRomanciuc/Personal/blob/6851e81d23e0d98aca5311193112d584db796075/Business%20Analysis/Bike%20E-Shop/README.md)|
 
 #### RACI Matrix
-![](RACI_Matrix.png)
+![RACI Matrix](RACI_Matrix.png)
 
 ### Project timeline _(Gantt chart)_
-![](timeline.png)
+![Timeline chart](timeline.png)
 
 ### Resource plan and estimation of fees
-![](resource_plan.png)
+![Resource plan](resource_plan.png)
