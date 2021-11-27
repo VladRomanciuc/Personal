@@ -1,5 +1,7 @@
 ### Bike e-Shop Customer Trends Analytic Report <a href="https://powerbi.microsoft.com/en-us/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white" /></a>
 
+[Project plan](https://github.com/VladRomanciuc/Personal/blob/bea615faf185bc2c381f6a42cee9913d8b19104b/Project%20Management/Bike%20e-Shop/README.md) | [Data exploration](https://github.com/VladRomanciuc/Personal/blob/bea615faf185bc2c381f6a42cee9913d8b19104b/Business%20Intelligence/Bike%20E-Shop/README.md)
+
 ### Case brief
 
 > A successful Bike e-Shop using the targeting marketing strategy wants a more intelligent way to the insight of the current customers which will improve the performance of the marketing team that target high-value customers from lists of potential customers.
