@@ -9,7 +9,7 @@
 		<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 	</a>
  
-[Analytic report](https://github.com/VladRomanciuc/Personal/blob/151e14d0968c3ef425de5c5c184f6ca9dffdabfd/Business%20Analysis/Bike%20E-Shop/README.md) | [Data exploration](https://github.com/VladRomanciuc/Personal/blob/151e14d0968c3ef425de5c5c184f6ca9dffdabfd/Business%20Intelligence/Bike%20E-Shop/README.md)
+[Analytic report](https://github.com/VladRomanciuc/Personal/blob/b9ce73ef0c918602c952880f676cd9365ce3fd86/Business%20Analytics/Bike%20E-Shop/README.md) | [Data exploration](https://github.com/VladRomanciuc/Personal/blob/b9ce73ef0c918602c952880f676cd9365ce3fd86/Business%20Intelligence/Bike%20E-Shop/README.md)
 
 ### Case brief
 >Company X specialises in high-quality bikes and accessible cycling accessories to riders. It has an expertise of 15 years on the market and owns several physical shops. It operates on the Wix platform for its web presence and transactions. The successful Bike e-Shop is using the targeting marketing strategy.
@@ -53,7 +53,7 @@ _Company X enquire to analyse their data and reveal useful customer insights tha
 |Data Quality Assessment | Marketing Segmentation based on current demographic data of clients | Workshop with the operations and sales team: _Importance of the accuracy in data input_ | 
 Identify the most suitable intelligence tool for the marketing team (Microsoft Power BI or Tableau) | Marketing Segmentation based on demographics of new list of clients | Compilation of the outcome using PowerPoint presentation for reporting | 
  | Data transformations and feature engineering for the integration | Data Modelling to identify the most valuable market segment of new customers | Workshop with the marketing team: _Using the analytics dashboard_ |
-| [Phase 1 and 2 details](https://github.com/VladRomanciuc/Personal/blob/9a83c14fbd85bfaf0c6a9b96526161f3cb9bf954/Business%20Intelligence/Bike%20E-Shop/README.md) | | [Phase 3 details](https://github.com/VladRomanciuc/Personal/blob/6851e81d23e0d98aca5311193112d584db796075/Business%20Analysis/Bike%20E-Shop/README.md) |
+| [Phase 1 and 2 details](https://github.com/VladRomanciuc/Personal/blob/b9ce73ef0c918602c952880f676cd9365ce3fd86/Business%20Intelligence/Bike%20E-Shop/README.md) | | [Phase 3 details](https://github.com/VladRomanciuc/Personal/blob/b9ce73ef0c918602c952880f676cd9365ce3fd86/Business%20Analytics/Bike%20E-Shop/README.md) |
 
 #### RACI Matrix
 ![RACI Matrix](RACI_Matrix.png)
