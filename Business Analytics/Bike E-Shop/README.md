@@ -1,6 +1,6 @@
 ### Bike e-Shop Customer Trends Analytic Report <a href="https://powerbi.microsoft.com/en-us/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white" /></a>
 
-[Project plan](https://github.com/VladRomanciuc/Personal/blob/bea615faf185bc2c381f6a42cee9913d8b19104b/Project%20Management/Bike%20e-Shop/README.md) | [Data exploration](https://github.com/VladRomanciuc/Personal/blob/bea615faf185bc2c381f6a42cee9913d8b19104b/Business%20Intelligence/Bike%20E-Shop/README.md)
+[Project plan](https://github.com/VladRomanciuc/Personal/blob/860f72254758f1c09b0c80d0d5e389d3d019ecfa/Project%20Management/Bike%20e-Shop/README.md) | [Data exploration](https://github.com/VladRomanciuc/Personal/blob/b9ce73ef0c918602c952880f676cd9365ce3fd86/Business%20Intelligence/Bike%20E-Shop/README.md)
 
 ### Case brief
 
