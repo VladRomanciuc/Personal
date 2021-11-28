@@ -1,6 +1,6 @@
 # Bike e-Shop new customer capture <a href="https://powerbi.microsoft.com/en-us/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white" /></a>
 
-[Project plan](https://github.com/VladRomanciuc/Personal/blob/6077c7dd27f40ded5ab5ccc0527bbee5990c8ba3/Project%20Management/Bike%20e-Shop/README.md) | [Analytic report](https://github.com/VladRomanciuc/Personal/blob/6077c7dd27f40ded5ab5ccc0527bbee5990c8ba3/Business%20Analysis/Bike%20E-Shop/README.md)
+[Project plan](https://github.com/VladRomanciuc/Personal/blob/860f72254758f1c09b0c80d0d5e389d3d019ecfa/Project%20Management/Bike%20e-Shop/README.md) | [Analytic report](https://github.com/VladRomanciuc/Personal/blob/8d56a395e36feb2e74e11a06296f40a563a8dbdc/Business%20Analytics/Bike%20E-Shop/README.md)
 
 ### Case brief
 
