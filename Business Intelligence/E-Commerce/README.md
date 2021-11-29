@@ -69,11 +69,13 @@ There are 2 datasets provided for the 10 largest competitors:
 - [ ] Profits by channels B2B/B2C
   
 _Pie chart (Value - total profits b2b and b2c data)_
+
 ![Profits by channels](pie_chart.png)
 
 - [ ] Top of most profitable product categories in B2C channel
   
 _Stacked column chart (Axis Y – product category data, Axis X – Sum of profits for b2c data)_
+
 ![Product categories](st_c_chart.png)
 
 ### Analysys and recomandations

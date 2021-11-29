@@ -1,4 +1,4 @@
-# US Expansion Opportunity
+# US Expansion Opportunity <a href="https://office.live.com/start/powerpoint.aspx"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white" /></a>
 
 ### Goal
 >Long term operation on the US market
