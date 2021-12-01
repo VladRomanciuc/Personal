@@ -1,4 +1,4 @@
-# Project charter Market Scan
+# Project charter Market Scan <a href="https://office.live.com/start/powerpoint.aspx"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white" /></a>
 
 ### Case brief
 >Company X asked for consultancy in their market scan to establish and selection for a new financial accounting management solution. 
