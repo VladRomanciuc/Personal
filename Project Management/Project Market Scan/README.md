@@ -7,7 +7,7 @@ It plans to open a manufacturing site and expand its network and for a long term
 ### Focus
 Assessment of the financial accounting system market landscape and evaluate the following attributes:
 - adaptable to the business requirements for reconciliations and consolidation;
-- flexible to the potential growth of the end-user database over the next years;
+- flexible to the potential growth of the end-user database over the next years, mostly Australian market;
 - agile to operate with financial information from multiple sources and integrate multiple reporting tools used by other systems, preferable Salesforce.
 
 #### Exclusions 
