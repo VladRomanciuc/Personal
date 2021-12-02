@@ -30,6 +30,8 @@ Develop a framework for capability assessment to filter the providers for furthe
 ### Deliverables
 - Delivering an analytic report after 6 weeks of the market evaluation that will highlight optimal technological solutions for a new financial accounting management system.
 
+[Market Scan Analytic Report](https://github.com/VladRomanciuc/Personal/blob/6a6ffa80b1f059deb941108bb42e856581bf7723/Business%20Analytics/Market%20Scan%20Report/README.md)
+
 
 ### Milestones
 
