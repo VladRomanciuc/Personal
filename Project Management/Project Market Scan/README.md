@@ -1,4 +1,4 @@
-# Project charter Market Scan
+# Project charter Market Scan <a href="https://office.live.com/start/powerpoint.aspx"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white" /></a>
 
 ### Case brief
 >Company X asked for consultancy in their market scan to establish and selection for a new financial accounting management solution. 
@@ -7,7 +7,7 @@ It plans to open a manufacturing site and expand its network and for a long term
 ### Focus
 Assessment of the financial accounting system market landscape and evaluate the following attributes:
 - adaptable to the business requirements for reconciliations and consolidation;
-- flexible to the potential growth of the end-user database over the next years;
+- flexible to the potential growth of the end-user database over the next years, mostly Australian market;
 - agile to operate with financial information from multiple sources and integrate multiple reporting tools used by other systems, preferable Salesforce.
 
 #### Exclusions 
