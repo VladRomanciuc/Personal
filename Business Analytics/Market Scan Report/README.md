@@ -92,11 +92,11 @@ The total costs of Implementation, Integration and Maintenance projected for 10 
 
 > _Analysis_
 
-    - As the cost was estimated for 100 users and a full license of product these are adaptable to the organisation needs at the moment.
+   - As the cost was estimated for 100 users and a full license of product these are adaptable to the organisation needs at the moment.
   
-    - The Dynamics 365 offer great flexibility and the initial pack might start from 20 users on a basic license and extend at any time. 
+   - The Dynamics 365 offer great flexibility and the initial pack might start from 20 users on a basic license and extend at any time. 
   
-    - Their product has risen in popularity in the last 2 years and it is forecasted as a major player on integrated enterprise cloud solutions.
+   - Their product has risen in popularity in the last 2 years and it is forecasted as a major player on integrated enterprise cloud solutions.
 
 #### Implementation and Integration Plan for Microsoft Dynamics 365
 
